@@ -31,6 +31,11 @@ Os usuários devem ser capazes de:
  <img src='/public/assets/Desktop.png' alt='Formulário Desktop'>
 </p>
 
+- Desktop Error
+<p  align="center" >
+ <img src='/public/assets/Desktop-error.png' alt='Formulário Desktop'>
+</p>
+
 - Tablet
 <p  align="center" >
   <img src="/public/assets/Tablet.png"alt="Formulário Tablet"/>
