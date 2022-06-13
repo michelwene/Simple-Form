@@ -38,7 +38,7 @@ Os usuários devem ser capazes de:
 
 - Mobile
 <p  align="center" >
-  <img src="/public/assets/Mobile.png"alt="Formulário Mobile"/>
+  <img src="/public/assets/Celular.png"alt="Formulário Mobile"/>
 </p>
 
 ### Links
