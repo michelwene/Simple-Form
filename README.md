@@ -28,7 +28,7 @@ Os usuários devem ser capazes de:
 
 - Desktop
 <p  align="center" >
- <img src='/public/assets/Desktop' alt='Formulário Desktop'>
+ <img src='/public/assets/Desktop.png' alt='Formulário Desktop'>
 </p>
 
 - Tablet
